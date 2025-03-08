@@ -20,8 +20,6 @@ Here’s a peek at the magic in action!
 ### Magic Style  
 *Watch the lines fade like a spell!*
 
-*(Note: Replace the placeholder links above with actual GIFs from a hosting site like Giphy or your own repository once you create them!)*
-
 ---
 
 ## How to Run 🛠️
@@ -53,7 +51,7 @@ Here’s a peek at the magic in action!
 
 ## Contribute & Support 🙌
 Loved this project? Here’s how you can support me:
-- ⭐ **Star the Repo**: Give it a star on [GitHub](https://github.com/yourusername)!
+- ⭐ **Star the Repo**: Give it a star on [GitHub](https://github.com/MahmoudKok)!
 - 👀 **Follow Me**: Stay updated with my projects by following me on GitHub.
 - 💬 **Feedback**: Got ideas to make it even cooler? Open an issue or PR!
 
